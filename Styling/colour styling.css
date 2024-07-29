@@ -1,0 +1,21 @@
+body{
+	 background: linear-gradient(90deg, rgb(55, 41, 46) 0%, rgb(139, 102, 241) 100%);
+}
+h1{
+	
+	text-align: center;
+	font-family: libre-franklin;
+}
+div{
+	color: #d7d1ea;
+}
+p {
+	text-align: center;
+    font-family: libre-franklin;
+}
+p1{
+	font-family: libre-franklin;
+}
+
+
+	
